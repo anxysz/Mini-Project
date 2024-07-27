@@ -27,6 +27,7 @@ npm install npm@latest -g
   
 
 Untuk menginstall project ini di device secara lokal, dapat dilakukan dengan cara "Clone Repo". Tahapan untuk melakukan clone dapat di ikuti dengan perintah di bawah ini.
+NOTE : Pastikan sudah membuat database di phpmyadmin sesuai dengan file .env
 
 ```sh
 
